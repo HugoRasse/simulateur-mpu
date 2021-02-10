@@ -41,4 +41,18 @@ b -- Arrête le programme à la ligne donnée
 h -- Affiche ce message
 r -- Lance le programme
 q -- Quitter
+
+> b 2
+> r
+Point d'arrêt, ligne 2
+> h
+Liste des commandes lors d'un point d'arrêt :
+
+c -- Continuer le programme  
+h -- Afficher ce message  
+l -- Afficher le numéro de la ligne courante  
+print (reg) -- Afficher la valeur hexadécimale du registe reg  
+q -- Quitter le programme  
+s -- Aller à la ligne suivante  
+show data -- Afficher l'ensemble des données stockées  
 ```
