@@ -2,9 +2,9 @@
 
 ----
 
-**Auteur :** Hugo Rassé
-**Contexte :** TP 1 Archi+
-**Année :** 3e année Licence Informatique
+**Auteur :** Hugo Rassé  
+**Contexte :** TP 1 Archi+  
+**Année :** 3e année Licence Informatique  
 
 ### Présentation du TP
 
