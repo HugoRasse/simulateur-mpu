@@ -11,7 +11,7 @@
 Le but de ce TP était de réaliser un simulateur, en langage C, de l'architecture d'un microprocesseur mono-bus donné. 
 Le programme devait être capable de reproduire toutes les étapes d'exécution d'une instruction sur la micro-architecture du processeur donné.
 
-<div align="center"><img src="fig.PNG"></div>
+<div style="text-align: center"><img src="fig.PNG"></div>
 
 ### Arborescence du projet
 
